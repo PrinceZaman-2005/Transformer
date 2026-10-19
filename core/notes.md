@@ -1,6 +1,6 @@
-# ✨ Transformer Notes
+# ⚙️ Transformer Notes
 
-## 1. What Is a Transformer?
+## 1. Introduction
 
 A **Transformer** is a neural network architecture that uses attention mechanisms to learn relationships between tokens in a sequence.
 

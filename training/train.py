@@ -52,7 +52,7 @@ class Trainer:
             # Calculate loss.
             loss = self.criterion(logits, labels)
 
-            # Backpropagation through time.
+            # Backpropagation.
             loss.backward()
 
             # Update model parameters.
